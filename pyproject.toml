@@ -6,6 +6,7 @@ authors = ["Kenta Fukuhara <KAkikaku.tateyama@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.7, <= 3.9"
+git-sub-pkg = {path="git_main_pkg/pkgs/git_sub_pkg", develop=true}
 
 [tool.poetry.dev-dependencies]
 
