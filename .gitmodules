@@ -1,3 +1,0 @@
-[submodule "git_main_pkg/pkgs/git_sub_pkg"]
-	path = git_main_pkg/pkgs/git_sub_pkg
-	url = git@github.com:torigara603/git_sub_pkg.git
